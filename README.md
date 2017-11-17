@@ -699,27 +699,4 @@ In [another repo of mine](https://github.com/guillaume-chevalier/HAR-stacked-res
 
 The [dataset](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) can be found on the UCI Machine Learning Repository. 
 
-> Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013.
-
-If you want to cite my work, you can point to the URL of the GitHub repository: 
-> https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition
-
-## Connect with me
-
-- https://ca.linkedin.com/in/chevalierg 
-- https://twitter.com/guillaume_che
-- https://github.com/guillaume-chevalier/
-
-
-```python
-# Let's convert this notebook to a README as the GitHub project's title page:
-!jupyter nbconvert --to markdown LSTM.ipynb
-!mv LSTM.md README.md
-```
-
-    [NbConvertApp] Converting notebook LSTM.ipynb to markdown
-    [NbConvertApp] Support files will be in LSTM_files/
-    [NbConvertApp] Making directory LSTM_files
-    [NbConvertApp] Making directory LSTM_files
-    [NbConvertApp] Writing 31631 bytes to LSTM.md
 
